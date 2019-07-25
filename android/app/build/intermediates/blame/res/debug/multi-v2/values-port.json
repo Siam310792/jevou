@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\abraye\\Documents\\DossiersAnnabelleBraye\\Maquettes\\ReactNativeMaquette\\ReactNativeEject\\jevou\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\abraye\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\05a23c330805d8bc5e765f87271d9320\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}
